@@ -1,0 +1,8 @@
+{
+    "name" : "file-handling",
+    "type" : "module",
+    "isEdited" : true,
+    "description" : "Module on file handling in Python, including reading, writing, and appending files, as well as working with JSON data.",
+    "keywords" : [ "file handling", "read files", "write files", "append files", "JSON", "Python file operations" ]
+    
+}

@@ -1,0 +1,2 @@
+This is sample file 2.
+It contains some text data.
